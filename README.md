@@ -7,3 +7,11 @@ Introducing DailyDocket, an advanced to-do application meticulously crafted to s
  Task Management: Add, edit, and delete tasks on the fly with our dynamic task management system.
  Responsive Design: Daily Docket is built with a responsive design, ensuring a consistent and user-friendly experience across various devices.
  Real-time Updates: Experience real-time updates as you mark tasks as completed or modify their details.
+
+Technologies Used
+
+Advanced JavaScript
+
+HTML5
+
+CSS3
